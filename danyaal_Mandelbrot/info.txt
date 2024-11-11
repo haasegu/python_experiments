@@ -1,0 +1,29 @@
+Code from
+https://github.com/danyaal/mandelbrot/blob/master/mandelbrot.py
+
+https://docs.readme.com/main/docs/linking-to-pages
+
+sudo apt install python3-matplotlib
+
+numba:
+https://numba.pydata.org/
+https://numba.pydata.org/numba-doc/dev/user/5minguide.html
+https://numba.readthedocs.io/en/stable/
+https://numba.readthedocs.io/en/stable/user/index.html
+
+Installing collected packages: numpy, llvmlite, numba
+
+
+## Virtual environment for python
+#python3 -m venv ~/py_envs
+#source ~/py_envs/bin/activate
+#python3 -m pip install p2j
+#python3 -m pip install matplotlib
+
+#python3 -m pip install numpy
+#python3 -m pip install llvmlite
+#python3 -m pip install numba
+
+#python3 -m pip install cython
+
+#pip list
